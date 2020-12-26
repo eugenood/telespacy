@@ -1,0 +1,19 @@
+{
+  "name": "telespacy",
+  "version": "1.0.0",
+  "description": "Just another bot for managing community spaces in Telegram.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugenood/telespacy.git"
+  },
+  "author": "Eugene Lim",
+  "license": "MIT",
+  "dependencies": {
+    "lowdb": "^1.0.0",
+    "telegraf": "^3.38.0"
+  }
+}
